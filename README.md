@@ -9,4 +9,12 @@
 
 | Finance project | [![Fin](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Fin")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Fin")  |
 | :------------: | :------------: |
-| [![Accounts](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")](https://raw.githubusercontent.com/v-rao/demo/
+| [![Accounts](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")  | Accounts  project |
+| Banking  project | [![Banking](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")  |
+| [![Energy](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Energy")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Energy")  | Energy  project |
+
+
+
+```python
+for i in range(0,100,3):
+	pr
