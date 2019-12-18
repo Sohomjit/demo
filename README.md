@@ -1,11 +1,12 @@
-# My First Repo for INSIAD
-## My First Repo for INSIAD
-- finance
-- Account
-- Legal
+# My Repo for latest projects at INSAID
 
-|  [Finance](https://github.com/Sohomjit/demo/blob/master/Battlefield-1-Apocalypse-soldier-war_1920x1080.jpg "Finance") | [![me](https://pbs.twimg.com/profile_images/2364465451/7u0mcp0r2bdfoi8ks70b_400x400.jpeg "me")](https://pbs.twimg.com/profile_images/2364465451/7u0mcp0r2bdfoi8ks70b_400x400.jpeg "me")  |
+## Here is the list of all projects
+
+- [Finance](https://github.com/v-rao/demo/tree/master/finance-project "Finance")
+- Accounts
+- Banking
+- Energy
+
+| Finance project | [![Fin](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Fin")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Fin")  |
 | :------------: | :------------: |
-|   | Accounts  |
-|  Banking |   |
-|   |  Energy |
+| [![Accounts](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")](https://raw.githubusercontent.com/v-rao/demo/
